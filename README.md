@@ -1,6 +1,10 @@
 # 100_figure_for_atmos
 一百张海洋气象绘图计划
 
+使用到的数据放到了谷歌云盘：
+
+- https://drive.google.com/drive/folders/1JQPeirxUTONmbUr1dhDZLSd4CRLPRVxI?usp=drive_link
+
 ## 2025-05-06
 
 - 赤道浅水波频散关系图
